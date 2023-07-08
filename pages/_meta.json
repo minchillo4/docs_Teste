@@ -1,6 +1,24 @@
 {
   "introducao": "Introdução",
-  "indicadores_derivativo": "Indicadores Derivativo",
-  "indicador_sentimento": "Indicador Sentimento",
-  "indicador_mercado": "Indicador Mercado"
+  "indicadores_derivativo": {
+    "title": "indicadores derivativo",
+    "children": {
+      "indicador_derivativos1": "indicador derivativos1",
+      "indicador_derivativos2": "indicador derivativos2"
+    }
+  },
+  "indicador_sentimento": {
+    "title": "indicador sentimento",
+    "children": {
+      "indicador_sentimento1": "indicador sentimento1",
+      "indicador_sentimento2": "indicador sentimento2"
+    }
+  },
+  "indicador_mercado": {
+    "title": "indicador mercado",
+    "children": {
+      "indicador_mercado1": "indicador mercado1",
+      "indicador_mercado2": "indicador mercado2"
+    }
+  }
 }
