@@ -1,15 +1,6 @@
 {
-  "index": "Introduction",
-  "derivativos": "Another Page",
-  "satori": "Derivativos",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "introducao": "Introdução",
+  "indicadores_derivativo": "Indicadores Derivativo",
+  "indicador_sentimento": "Indicador Sentimento",
+  "indicador_mercado": "Indicador Mercado"
 }
