@@ -1,3 +1,13 @@
 {
-  "exchangeflow": "Saque/Depósitos em Corretoras"
+  "exchangeflow": "Saque/Depósitos em Corretoras",
+  "endercosativos": "Endereços Ativos",
+  "transactionfee": "Taxa de Transação",
+  "blockcnt": "Número de Blocos",
+  "blocksize": "Tamanho Médio de Bloco",
+  "circulatingsupply": "Supply Circulante",
+  "realizedcap": "Capitalização Realizada",
+  "mvrv": "MVRV",
+  "minerrevenue": "Receita dos Mineradores",
+  "hashrate": "Hashrate",
+  "transcnt": "Número de Transações"
 }
