@@ -48,6 +48,31 @@ const config: DocsThemeConfig = {
       </span>
     </>
   ),
+  i18n: [
+    { locale: "pt-BR", text: "Portuguese" },
+    { locale: "en", text: "English" },
+  ],
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s - Dominando Academy",
+    };
+  },
+  footer: {
+    text: "Copyright © 2023 Dominando Cripto, Built with Nextra",
+  },
+  feedback: {
+    content: null,
+  },
+  editLink: {
+    text: null,
+  },
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="Nextra" />
+      <meta property="og:description" content="The next site builder" />
+    </>
+  ),
 };
 
 export default config;

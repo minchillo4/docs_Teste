@@ -1,0 +1,13 @@
+{
+  "index": "Introduction",
+  "derivatives": "Derivatives",
+  "mercado": "Market",
+  "onchain": "On-chain",
+
+  "contact": {
+    "title": "Go to platform ↗",
+    "type": "page",
+    "href": "https://dominantcrypto.com/",
+    "newWindow": true
+  }
+}

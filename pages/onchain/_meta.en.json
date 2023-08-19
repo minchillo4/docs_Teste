@@ -1,0 +1,13 @@
+{
+  "exchangeflow": "Exchange Inflow/Outflow",
+  "endercosativos": "Active Addresses",
+  "transactionfee": "Transaction Fee",
+  "blockcnt": "Number of Blocks",
+  "blocksize": "Average Block Size",
+  "circulatingsupply": "Circulating Supply",
+  "realizedcap": "Realized Capitalization",
+  "mvrv": "MVRV",
+  "minerrevenue": "Miner Revenue",
+  "hashrate": "Hashrate",
+  "transcnt": "Number of Transactions"
+}

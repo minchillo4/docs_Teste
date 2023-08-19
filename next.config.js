@@ -4,4 +4,12 @@ const withNextra = require("nextra")({
   latex: true,
 });
 
-module.exports = withNextra();
+module.exports = withNextra({
+  output: "standalone",
+  reactStrictMode: true,
+  i18n: {
+    locales: ["pt-BR", "en"],
+    defaultLocale: "pt-BR",
+  },
+  // trailingSlash: true,
+});
