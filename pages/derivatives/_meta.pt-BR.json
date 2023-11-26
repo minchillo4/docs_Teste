@@ -1,4 +1,14 @@
 {
-  "accTend": "Tendência de Acumulação (Heatmap)",
-  "netpos": "Posições Líquidas Acumuladas"
+  "accTend": "Tendência de Acumulação (Mapa de Calor)",
+  "netpos": "Posições Líquidas Acumuladas",
+  "liqHeatmap":"Níveis de Liquidação: Mapa de Calor",
+  "toptraderlsrpos":"Maiores Traders: Proporção Compra/Venda (Posições)",
+  "toptraderlsracc":"Maiores Traders: Proporção Compra/Venda (Contas)",
+  "funding":"Funding Rate",
+  "openinterest_stk":"Open Interest",
+  "netshort_pos":"Net Short Position",
+  "netlong_pos": "Net Long Position",
+  "liquid_prof":"Perfil de Liquidez",
+  "netdeltapos_agg":"Net Delta Position Aggregated",
+  "lsratio_heat":"Long Short Ratio: Heatmap"
 }

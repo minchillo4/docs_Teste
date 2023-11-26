@@ -1,4 +1,17 @@
 {
   "accTend": "Accumulation Trend (Heatmap)",
-  "netpos": "Net Positions"
+  "netpos": "Net Positions",
+  "liqHeatmap":"Liquidation Levels: Heatmap",
+  "toptraderlsrpos":"Top Trader: Long/Short Ratio (Positions)",
+  "toptraderlsracc":"Top Trader: Long/Short Ratio (Accounts)",
+  "funding":"Funding Rate",
+  "openinterest_stk":"Open Interest",
+  "netshort_pos":"Net Short Position",
+  "netlong_pos": "Net Long Position",
+  "liquid_prof":"Liquidity Profile",
+  "netdeltapos_agg": "Net Delta Position Aggregated",
+  "lsratio_heat":"Long Short Ratio: Heatmap"
+  
+
+  
 }
